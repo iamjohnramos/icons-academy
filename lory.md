@@ -1,10 +1,6 @@
 
 **Codes**
 
-<mp4 src="icons-academy/sample-video.gif" width="1200"  style="padding: 0px 0px 30px 30px">
-
-
-![image of a cat] ([https://github.com/iamjohnramos/icons-academy/blob/70478831cf4f8ccfae1f44c974686aa12890c21e/sample-video.gif](https://www.loom.com/share/141cd8c381464861bdb9d152af0d4855) "cat")alin
   
   
-  <p><img align="right" src="https://github.com/iamjohnramos/icons-academy/blob/70478831cf4f8ccfae1f44c974686aa12890c21e/sample-video.gif" width="1200"  style="padding: 0px 0px 30px 30px">
+  <p><img align="right" src="https://github.com/iamjohnramos/icons-academy/blob/5cb5da9fc13c084607d579fd12e9739af3ee9409/Home%20_%20Waking%20Up%20with%20Sam%20Harris%20-%20A%20New%20Operating%20System%20for%20Your%20Mind%20-%20Google%20Chrome%20-%2019%20January%202023%20(1).mp4" width="1200"  style="padding: 0px 0px 30px 30px">
